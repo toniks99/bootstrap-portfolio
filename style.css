@@ -1,0 +1,2043 @@
+@media (min-width: 199px) and (max-width: 499px) {
+    .carousel-image {
+        width: 380vw;
+    }
+}
+
+@media (min-width: 150px) and (max-width: 374px) {
+    .career-image-container {
+        width: 216px;
+        height: 150px;
+    }
+
+    #constructionWorkers {
+        width: 216px;
+        height: 150px;
+    }
+
+}
+
+@media (max-width: 344px) {
+    .preferences-reset-button {
+        margin-top: 10px;
+    }
+
+    .preferences-cancel-button {
+        margin-top: 10px;
+    }
+}
+
+@media (min-width: 344px) and (max-width: 440px){
+    .preferences-reset-button {
+        margin-top: 10px;
+    }
+
+    .preferences-cancel-button {
+        margin-top: 10px;
+        margin-left: 5px;
+    }
+}
+
+@media (min-width: 374px) and (max-width: 640px) {
+    .career-image-container {
+        width: 316px;
+        height: 200px;
+    }
+
+    #constructionWorkers {
+        width: 316px;
+        height: 200px;
+    }
+}
+
+@media (max-width: 400px) {
+    .cookie-banner-options-button {
+        margin-top: 10px;
+    }
+} 
+
+@media (min-width: 441px) {
+    .preferences-cancel-button {
+        margin-top: 10px;
+    }
+}
+
+
+@media (min-width: 560px) {
+    .preferences-reset-button {
+        margin-left: 10px;
+    }
+
+    .preferences-cancel-button {
+        margin-left: 10px;
+    }
+
+}
+
+@media(max-width: 576px) {
+
+    .about-jumbotron {
+        padding: 2rem 1rem;
+    }
+
+    .about-who-image-container {
+        width: 200px;
+        height: 100px;
+    }
+
+    #cityImage {
+        width: 200px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .about-history-image-container {
+        width: 200px;
+        height: 100px;
+    }
+
+    #oldConstruction {
+        width: 200px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .about-values-image-container {
+        width: 200px;
+        height: 100px;
+    }
+
+    #constructionMeetings {
+        width: 200px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .obras-jumbotron {
+        padding: 2rem 1rem;
+    }
+
+    .servicos-jumbotron {
+        padding: 2rem 1rem;
+    }
+
+    .preconstruction-text {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .preconstruction-image-container {
+        width: 200px;
+        height: 100px;
+    }
+
+    #preconstructionMeeting {
+        width: 200px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .managementConstruction-text {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .managementConstruction-image-container {
+        width: 200px;
+        height: 100px;
+    }
+
+    #managementConstruction {
+        width: 200px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .projectManagement-text {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .projectManagement-image-container {
+        width: 200px;
+        height: 100px;
+    }
+
+    #projectManagement {
+        width: 200px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .virtualDesign-text {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .virtualDesign-image-container {
+        width: 200px;
+        height: 100px;
+    }
+
+    #virtualDesign {
+        width: 200px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .privacy-policy-content-section {
+        padding-left: 45px;
+        padding-right: 35px;
+    }
+
+    .aviso-legal-content-section {
+        padding-left: 45px;
+        padding-right: 35px;
+    }
+
+    .cookies-policy-content-section {
+        padding-left: 45px;
+        padding-right: 35px;
+    }
+}
+
+@media (min-width: 500px) and (max-width: 770px) {
+    .carousel-image {
+        width: 155vw;
+    }
+}
+
+@media(min-width: 576px) {
+
+    .carousel-caption-container {
+        max-width: 540px;
+    }
+
+    .projects-container {
+        max-width: 540px;
+    }
+
+    .jumbotron-container {
+        max-width: 540px;
+    }
+
+    .about-jumbotron {
+        padding: 14rem 2rem 1rem 2rem;
+    }
+
+    .about-top-content-container {
+        max-width: 540px;
+    }
+
+    .about-who-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #cityImage {
+        width: 400px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .about-history-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #oldConstruction {
+        width: 400px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .about-values-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #constructionMeetings {
+        width: 400px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .team-container {
+        max-width: 540px;
+    }
+
+    .obras-jumbotron {
+        padding: 14rem 2rem 1rem 2rem;
+    }
+
+    .obras-top-content-container {
+        max-width: 540px;
+    }
+
+    .servicos-jumbotron {
+        padding: 14rem 2rem 1rem 2rem;
+    }
+
+    .servicos-top-content-container {
+        max-width: 540px;
+    }
+
+    .preconstruction-text {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .preconstruction-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #preconstructionMeeting {
+        width: 400px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .managementConstruction-text {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .managementConstruction-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #managementConstruction {
+        width: 400px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .projectManagement-text {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .projectManagement-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #projectManagement {
+        width: 400px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .virtualDesign-text {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .virtualDesign-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #virtualDesign {
+        width: 400px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .privacy-policy-content-section {
+        max-width: 540px;
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin: 4rem auto;
+    }
+
+    .aviso-legal-content-section {
+        max-width: 540px;
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin: 4rem auto;
+    }
+
+    .cookies-policy-content-section {
+        max-width: 540px;
+        width: 100%;
+        padding-right: 15px;
+        padding-left: 15px;
+        margin: 4rem auto;
+    }
+
+    .footer-container {
+        max-width: 540px;
+    }
+}
+
+@media (min-width: 640px) {
+    .carousel-caption p {
+        margin-bottom: 20px;
+        font-size: 20px;
+        line-height: 1.4;
+    }
+
+    .featurette-heading {
+        font-size: 50px;
+    }
+
+    .career-image-container {
+        width: 416px;
+        height: 300px;
+    }
+
+    #constructionWorkers {
+        width: 416px;
+        height: 300px;
+    }
+
+    .about-who-featurette-heading {
+        font-size: 50px;
+    }
+
+    .about-who-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #cityImage {
+        width: 500px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .about-history-featurette-heading {
+        font-size: 50px;
+    }
+
+    .about-history-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #oldConstruction {
+        width: 500px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .about-values-featurette-heading {
+        font-size: 50px;
+    }
+
+    .about-values-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #constructionMeetings {
+        width: 500px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .preconstruction-text {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .preconstruction-featurette-heading {
+        font-size: 40px;
+    }
+
+    .preconstruction-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #preconstructionMeeting {
+        width: 500px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .manageMentConstruction-text {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .managementConstruction-featurette-heading {
+        font-size: 40px;
+    }
+
+    .managementConstruction-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #managementConstruction {
+        width: 500px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .projectManagement-text {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .projectManagement-featurette-heading {
+        font-size: 40px;
+    }
+
+    .projectManagement-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #projectManagement {
+        width: 500px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .virtualDesign-text {
+        padding-right: 15px;
+        padding-left: 15px;
+    }
+
+    .virtualDesign-featurette-heading {
+        font-size: 40px;
+    }
+
+    .virtualDesign-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #virtualDesign {
+        width: 500px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+}
+
+@media (min-width: 768px) {
+
+    .carousel-caption-container {
+        max-width: 720px;
+    }
+
+    .h-md-250 {
+        height: 250px;
+    }
+
+    .bd-placeholder-img-lg {
+        font-size: 3.5rem;
+    }
+
+    .projects-container {
+        max-width: 720px;
+    }
+
+    .jumbotron-container {
+        max-width: 720px;
+    }
+
+    .about-top-content-container {
+        max-width: 720px;
+    }
+
+    .about-who-image-container {
+        width: 300px;
+        height: 200px;
+    }
+
+    #cityImage {
+        width: 300px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .about-history-image-container {
+        width: 200px;
+        height: 100px;
+    }
+
+    #oldConstruction {
+        width: 200px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .about-values-image-container {
+        width: 300px;
+        height: 200px;
+    }
+
+    #constructionMeetings {
+        width: 300px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .team-container {
+        max-width: 720px;
+    }
+
+    .obras-top-content-container {
+        max-width: 720px;
+    }
+
+    .servicos-top-content-container {
+        max-width: 720px;
+    }
+
+    .preconstruction-text {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+
+    .preconstruction-image-container {
+        width: 300px;
+        height: 200px;
+    }
+
+    #preconstructionMeeting {
+        width: 300px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .managementConstruction-image-container {
+        width: 300px;
+        height: 200px;
+    }
+
+    #managementConstruction {
+        width: 300px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .projectManagement-text {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+
+    .projectManagement-image-container {
+        width: 300px;
+        height: 200px;
+    }
+
+    #projectManagement {
+        width: 300px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .virtualDesign-image-container {
+        width: 300px;
+        height: 200px;
+    }
+
+    #virtualDesign {
+        width: 300px;
+        height: auto;
+        margin-top: 1rem;
+        border-radius: 10px;
+    }
+
+    .privacy-policy-content-section {
+        max-width: 720px;
+    }
+
+    .aviso-legal-content-section {
+        max-width: 720px;
+    }
+
+    .cookies-policy-content-section {
+        max-width: 720px;
+    }
+
+    .footer-container {
+        max-width: 720px;
+    }
+}
+
+@media (min-width: 768px) and (max-width: 992px) {
+    .projects-images-container {
+        height: 150px;
+    }
+
+    .career-image-container {
+        width: 285px;
+        height: 169px;
+    }
+
+    #constructionWorkers {
+        width: 285px;
+        height: 169px;
+    }
+
+    .managementConstruction-text {
+        padding-right: 0px;
+        padding-left: 100px;
+    }
+
+    .virtualDesign-text {
+        padding-right: 0px;
+        padding-left: 100px;
+    }
+}
+
+
+@media (min-width: 992px) {
+    .navbar-expand-lg {
+        flex-flow: row nowrap;
+        justify-content: flex-start;
+    }
+
+    .carousel-caption-container {
+        max-width: 960px;
+    }
+
+    .projects-container {
+        max-width: 1500px;
+    }
+
+    .projects-images-container {
+        height: 200px;
+    }
+
+    .featurette-heading {
+        margin-top: 4rem;
+    }
+
+    .jumbotron-container {
+        max-width: 960px;
+    }
+
+    .about-top-content-container {
+        max-width: 960px;
+    }
+
+    .about-who-featurette-heading {
+        margin-top: 7rem;
+    }
+
+    .about-who-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #cityImage {
+        width: 400px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .about-history-featurette-heading {
+        margin-top: 7rem;
+    }
+
+    .about-history-image-container {
+        width: 300px;
+        height: 200px;
+    }
+
+    #oldConstruction {
+        width: 300px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .about-values-featurette-heading {
+        margin-top: 7rem;
+    }
+
+    .about-values-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #constructionMeetings {
+        width: 400px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .team-container {
+        max-width: 960px;
+    }
+
+    .obras-top-content-container {
+        max-width: 960px;
+    }
+
+    .servicos-top-content-container {
+        max-width: 960px;
+    }
+
+    .preconstruction-featurette-heading {
+        margin-top: 2rem;
+    }
+
+    .preconstruction-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #preconstructionMeeting {
+        width: 400px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .managementConstruction-featurette-heading {
+        margin-top: 2rem;
+    }
+
+    .managementConstruction-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #managementConstruction {
+        width: 400px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .projectManagement-featurette-heading {
+        margin-top: 2rem;
+    }
+
+    .projectManagement-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #projectManagement {
+        width: 400px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .virtualDesign-featurette-heading {
+        margin-top: 2rem;
+    }
+
+    .virtualDesign-image-container {
+        width: 400px;
+        height: 300px;
+    }
+
+    #virtualDesign {
+        width: 400px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .privacy-policy-content-section {
+        max-width: 960px;
+    }
+
+    .aviso-legal-content-section {
+        max-width: 960px;
+    }
+
+    .cookies-policy-content-section {
+        max-width: 960px;
+    }
+
+    .footer-container {
+        max-width: 960px;
+    }
+
+}
+
+@media (min-width: 992px) and (max-width: 1080px) {
+
+    .career-image-container {
+        width: 400px;
+        height: 284px;
+    }
+
+    #constructionWorkers {
+        width: 400px;
+        height: 284px;
+    }
+
+    .managementConstruction-text {
+        padding-right: 0px;
+        padding-left: 100px;
+    }
+
+    .virtualDesign-text {
+        padding-right: 0px;
+        padding-left: 100px;
+    }
+}
+
+@media (min-width: 992px) and (max-width: 1299px) {
+
+    .navbar-nav .nav-item {
+        margin-right: 3px;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        font-size: 12px;
+    }
+}
+
+/*-- BIG SCREENS Like laptop --*/
+
+@media (min-width: 1025px) {
+    .anim-block .anim-elem.done {
+        -webkit-transition: opacity 0.7s, visibility 0.7s;
+        transition: opacity 0.7s, visibility 0.7s;
+        -webkit-backface-visibility: hidden;
+        backface-visibility: hidden;
+        visibility: visible;
+        opacity: 1;
+    }
+}
+
+@media (min-width: 1080px) {
+    .managementConstruction-text {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+
+    .virtualDesign-text {
+        padding-right: 50px;
+        padding-left: 50px;
+    }
+}
+
+@media (min-width: 1200px) {
+    .jumbotron-container {
+        max-width: 1140px;
+    }
+
+    .footer-container {
+        max-width: 1140px;
+    }
+
+    .about-top-section {
+        height: 60vh;
+    }
+
+    .about-top-content-container {
+        max-width: 1140px;
+    }
+
+    .obras-top-section {
+        height: 60vh;
+    }
+
+    .obras-top-content-container {
+        max-width: 1140px;
+    }
+
+    .servicos-top-section {
+        height: 60vh;
+    }
+
+    .servicos-top-content-container {
+        max-width: 1140px;
+    }
+
+    .privacy-policy-content-section {
+        max-width: 1140px;
+    }
+
+    .aviso-legal-content-section {
+        max-width: 1140px;
+    }
+
+    .cookies-policy-content-section {
+        max-width: 1140px;
+    }
+}
+
+@media (max-width: 1300px) {
+    .career-section {
+        margin: 0rem 2rem 6rem 2rem;
+    }
+}
+
+@media (min-width: 1300px) {
+
+    .navbar-nav .nav-item {
+        margin-right: 25px;
+    }
+
+    .navbar-nav .nav-item .nav-link {
+        font-size: 16px;
+    }
+
+    .career-section {
+        margin: 0rem 6rem 6rem 6rem;
+    }
+
+    .about-who-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #cityImage {
+        width: 500px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .about-history-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #oldConstruction {
+        width: 500px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .about-values-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #constructionMeetings {
+        width: 500px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .preconstruction-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #preconstructionMeeting {
+        width: 500px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .managementConstruction-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #managementConstruction {
+        width: 500px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .projectManagement-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #projectManagement {
+        width: 500px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+
+    .virtualDesign-image-container {
+        width: 500px;
+        height: 400px;
+    }
+
+    #virtualDesign {
+        width: 500px;
+        height: auto;
+        margin-top: 4rem;
+        border-radius: 10px;
+    }
+}
+
+.page-container {
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+}
+
+.content-wrap {
+    flex: 1;
+}
+
+/*------------------ MAIN PAGE ----------------------*/
+
+/*--Barra de navegação--*/
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding: 0rem 1rem;
+}
+
+.navbar .bg-primary {
+    background-color: #1459E3;
+}
+
+.navbar .navbar-brand {
+    text-align: center;
+    color: #ffffff;
+    font-size: 22px;
+    padding: 5px 7px;
+    margin-right: 0px;
+}
+
+.navbar .navbar-brand h1 {
+    font-size: 40px;
+    border-bottom: 3px solid #ffffff;
+    margin-bottom: 0;
+}
+
+.navbar-nav .nav-item {
+    margin-top: 0px;
+    margin-bottom: 0px;
+    padding-top: 0px;
+    padding-bottom: 0px;
+}
+
+.navbar-nav .nav-item .nav-link {
+    padding: 40px 20px;
+    color: #14DCE3;
+    font-weight: bold;
+
+}
+
+.navbar-dark .navbar-nav .nav-link:hover {
+    color: #000000;
+    background-color: #ffffff;
+}
+
+.navbar-collapse .form-control {
+    margin: 20px 0px 20px 10px;
+
+}
+
+/*--Carousel section--*/
+.carousel {
+    margin-bottom: 6rem;
+}
+
+.carousel-item {
+    height: 32rem;
+}
+
+.bd-placeholder-img {
+    font-size: 1.125rem;
+    text-anchor: middle;
+    -webkit-user-select: none;
+    user-select: none;
+}
+
+.carousel-caption-container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.carousel-caption {
+    bottom: 3rem;
+}
+
+.carousel-caption h1 {
+    font-size: 50px;
+}
+
+#myCarousel {
+    background-color: #000000;
+}
+
+.scroll-down {
+    position: absolute;
+    bottom: 7.3vw;
+    left: 3vw;
+    -webkit-transform: rotate(-90deg);
+    transform: rotate(-90deg);
+    display: -webkit-box;
+    display: flex;
+    -webkit-box-orient: horizontal;
+    -webkit-box-direction: reverse;
+    flex-flow: row-reverse;
+}
+
+.scroll-down-txt {
+    margin-top: 1rem;
+    font-size: 16px;
+    font-weight: 700;
+    color: #ffffff;
+}
+
+.scroll-down-img {
+    -webkit-transform: rotate(90deg);
+    transform: rotate(90deg);
+    right: 30px;
+    top: 1px;
+}
+
+.prel {
+    position: relative;
+}
+
+.scroll-down-line {
+    display: block;
+    width: 2px;
+    background: white;
+    height: 7px;
+    position: absolute;
+    top: 4px;
+    right: 8px;
+}
+
+.scroll-img {
+    overflow: clip;
+}
+
+/*--sobre section--*/
+
+.sobre-section {
+    padding: 0rem 3rem;
+    margin: 0rem 2rem;
+}
+
+.sobre-content {
+    text-align: center;
+    font-size: 1.25rem;
+    font-weight: 300;
+}
+
+.sobre-content:first-child {
+    margin-bottom: 2rem;
+}
+
+.sobre-content:last-child {
+    margin-bottom: 6rem;
+}
+
+/*--noticias section--*/
+
+.noticias-section {
+    margin: 0rem 2rem;
+}
+
+.noticias-titulo {
+    margin-bottom: 2rem;
+    font-weight: 400;
+    font-size: 2.5rem;
+}
+
+.noticias-article {
+    background-color: #ffffff;
+}
+
+.first-post-img-container {
+    width: 400px;
+}
+
+.truncate-text {
+    overflow: hidden;
+    display: -webkit-box;
+    -webkit-line-clamp: 4;
+    -webkit-box-orient: vertical;
+}
+
+/*--projects section--*/
+
+.project-section {
+    margin-bottom: 4rem;
+    background-color: #ffffff;
+}
+
+.projects-container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.projects-titulo {
+    margin-bottom: 2rem;
+    font-weight: 400;
+    font-size: 2.5rem;
+}
+
+.projects-images-container {
+    width: 100%;
+}
+
+.projects-images {
+    border-top-left-radius: calc(.25rem - 1px);
+    border-top-right-radius: calc(.25rem - 1px);
+    height: 100%;
+    width: 100%;
+}
+
+/*
+.container {
+    margin: 0rem 2rem;
+}
+*/
+
+/*--Career section--*/
+
+.featurette-heading {
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: -.05rem;
+}
+
+.bd-placeholder-img {
+    font-size: 3.5rem;
+}
+
+.career-Button {
+    margin-bottom: 1rem;
+}
+
+.career-left-side {
+    padding-top: 25px;
+}
+
+/*--Contact section--*/
+
+.jumbotron {
+    background-color: #ffffff;
+}
+
+.jumbotron-container {
+    width: 100%;
+    padding: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    background-color: #1459E3;
+}
+
+.contact-title {
+    text-align: center;
+    color: #ffffff;
+    font-size: 3.5rem;
+}
+
+.contact-description {
+    color: #ffffff;
+    text-align: center;
+    font-size: 1.25rem;
+    padding: 0rem 5rem;
+}
+
+.contact-button {
+    text-align: center;
+}
+
+/*--footer section--*/
+
+.footer-section {
+    background-color: #f9f9f9;
+    border-top: .05rem solid #e5e5e5;
+}
+
+.footer-container {
+    width: 100%;
+    padding: 40px 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.footer-right {
+    text-align: right;
+}
+
+.footer-right a:hover {
+    opacity: 0.5;
+}
+
+#instagramLogo {
+    width: 30px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+#facebookLogo {
+    width: 27px;
+    height: auto;
+    margin-left: 6px;
+    margin-bottom: 10px;
+}
+
+#xLogo {
+    width: 39px;
+    height: auto;
+    margin-bottom: 10px;
+}
+
+/*------------------ ABOUT PAGE ----------------------*/
+
+/*-- About-top-section --*/
+
+.about-jumbotron {
+    margin-bottom: 5rem;
+    background-color: #000000;
+    position: relative;
+    overflow: hidden;
+    color: #ffffff;
+    font-weight: 600;
+    height: 100%;
+}
+
+.about-jumbotron::before {
+
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('Imagens/workerAbout.jpeg');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.about-jumbotron::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to top, rgba(0, 0, 0, 0.8), rgba(0, 0, 0, 0));
+    z-index: 2;
+}
+
+.about-top-content-container {
+
+    position: relative;
+    z-index: 3;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.about-top-content-container h1 {
+    font-size: 3.125rem;
+}
+
+/*-- About-who-section --*/
+
+.about-who-section {
+    margin: 5rem 5rem 10rem 5rem;
+}
+
+.about-who-featurette-heading {
+
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: -.05rem;
+    margin-bottom: 1rem;
+}
+
+.about-history-section {
+    margin: 10rem 5rem;
+}
+
+.about-history-featurette-heading {
+
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: -.05rem;
+    margin-bottom: 1rem;
+}
+
+.about-values-section {
+    margin: 10rem 5rem;
+}
+
+.about-values-featurette-heading {
+
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: -.05rem;
+    margin-bottom: 1rem;
+}
+
+/*-- About-team-section --*/
+
+.team-container {
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 10rem;
+}
+
+.team-member {
+    margin-bottom: 1.5rem;
+    text-align: center;
+}
+
+.team-container h1 {
+    margin-bottom: 4rem;
+    font-weight: 400;
+    font-size: 2.5rem;
+    text-align: center;
+}
+
+.team-member-image-container {
+    margin: 0 auto;
+    width: 140px;
+    height: 140px;
+    overflow: hidden;
+    text-anchor: middle;
+    vertical-align: middle;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.team-member h2 {
+    font-weight: 400;
+    font-size: 1.25rem;
+}
+
+.team-member p {
+    margin-right: 0.75rem;
+    margin-left: 0.75rem;
+    font-size: 18px;
+    font-weight: 700;
+}
+
+#diretorGeral {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: 50% 10%;
+}
+
+#diretorDeOperacoes {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top center;
+}
+
+#diretorDeConstrucao {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top center;
+}
+
+#gestorDeProjetos {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top center;
+}
+
+#gestorDoSitio {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+#superintendenteDeConstrucao {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+    object-position: top;
+}
+
+/*-- About-company-info-section --*/
+
+.about-company-info-section {
+    margin: 0rem 8rem 4rem 8rem;
+}
+
+.about-company-info-section h3 {
+    font-size: 4.5rem;
+    color: #ffffff;
+}
+
+.about-company-info-section p {
+    font-size: 1.875rem;
+    color: #ffffff;
+    text-transform: uppercase;
+}
+
+
+/*------------------ OBRAS PAGE ----------------------*/
+
+/*-- obras-top-section --*/
+
+.obras-jumbotron {
+    margin-bottom: 5rem;
+    background-color: #000000;
+    position: relative;
+    overflow: hidden;
+    color: #ffffff;
+    font-weight: 600;
+    height: 100%;
+}
+
+.obras-jumbotron::before {
+
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('Imagens/BuildingB.jpg');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.obras-jumbotron::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.2), rgba(0, 0, 0, 0));
+    z-index: 2;
+}
+
+.obras-top-content-container {
+
+    position: relative;
+    z-index: 3;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.obras-top-content-container h1 {
+    font-size: 3.125rem;
+}
+
+/*-- Projects-section-obras -- */
+
+.projects-titulo-obras {
+    text-align: center;
+    margin-bottom: 2rem;
+    font-weight: 400;
+    font-size: 2.5rem;
+    text-transform: uppercase;
+}
+
+/*------------------ SERVIÇOS PAGE ----------------------*/
+
+/*-- servicos-top-section --*/
+
+.servicos-jumbotron {
+    margin-bottom: 5rem;
+    background-color: #000000;
+    position: relative;
+    overflow: hidden;
+    color: #ffffff;
+    font-weight: 600;
+    height: 100%;
+}
+
+.servicos-jumbotron::before {
+
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background-image: url('Imagens/workersMeeting.jpg');
+    background-size: cover;
+    background-position: center;
+    opacity: 0.5;
+    z-index: 1;
+}
+
+.servicos-jumbotron::after {
+    content: "";
+    position: absolute;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: linear-gradient(to right, rgba(0, 0, 0, 0.1), rgba(0, 0, 0, 0));
+    z-index: 2;
+}
+
+.servicos-top-content-container {
+
+    position: relative;
+    z-index: 3;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+}
+
+.servicos-top-content-container h1 {
+    font-size: 3.125rem;
+    margin-bottom: 1rem;
+}
+
+/*-- servicos-content-section --*/
+
+.preconstruction-section {
+    margin: 5rem 5rem 10rem 5rem;
+}
+
+.preconstruction-featurette-heading {
+
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: -.05rem;
+    margin-bottom: 1rem;
+}
+
+.preconstruction-text ul {
+    padding-left: 0;
+    list-style-type: lower-roman;
+}
+
+.preconstruction-text ul li {
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.managementConstruction-section {
+    margin: 5rem 5rem 10rem 5rem;
+}
+
+.managementConstruction-featurette-heading {
+
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: -.05rem;
+    margin-bottom: 1rem;
+}
+
+.managementConstruction-text ul {
+    padding-left: 0;
+    list-style-type: lower-roman;
+}
+
+.managementConstruction-text ul li {
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.projectManagement-section {
+    margin: 5rem 5rem 10rem 5rem;
+}
+
+.projectManagement-featurette-heading {
+
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: -.05rem;
+    margin-bottom: 1rem;
+}
+
+.projectManagement-text ul {
+    padding-left: 0;
+    list-style-type: lower-roman;
+}
+
+.projectManagement-text ul li {
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+.virtualDesign-section {
+    margin: 5rem 5rem 10rem 5rem;
+}
+
+.virtualDesign-featurette-heading {
+
+    font-weight: 400;
+    line-height: 1;
+    letter-spacing: -.05rem;
+    margin-bottom: 1rem;
+}
+
+.virtualDesign-text ul {
+    padding-left: 0;
+    list-style-type: lower-roman;
+}
+
+.virtualDesign-text ul li {
+    margin-bottom: 1rem;
+    font-size: 1.25rem;
+    font-weight: 400;
+}
+
+
+/*------------------ CONTACTO PAGE ----------------------*/
+
+.contact-form-section {
+    max-width: 960px;
+    width: 100%;
+    padding-right: 15px;
+    padding-left: 15px;
+    margin-right: auto;
+    margin-left: auto;
+    margin-bottom: 4rem;
+}
+
+.submit-button {
+    width: 140px;
+}
+
+
+/*------------------ PRIVACIDADE PAGE ----------------------*/
+
+.privacy-policy-content h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.privacy-policy-content p {
+    font-size: 1.125rem;
+}
+
+.privacy-policy-content-intro {
+    margin-bottom: 2rem;
+}
+
+.privacy-policy-content-line {
+    margin-bottom: 2rem;
+}
+
+.privacy-policy-content ol {
+    padding-inline-start: 0px;
+}
+
+.privacy-policy-content ul {
+    list-style-type: disc;
+}
+
+.privacy-policy-content ul li {
+    margin-bottom: 1rem;
+    font-size: 1.125rem;
+}
+
+
+/*------------------ AVISO LEGAL PAGE ----------------------*/
+
+.aviso-legal-content h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.aviso-legal-content p {
+    font-size: 1.125rem;
+}
+
+.aviso-legal-content-line {
+    margin-bottom: 2rem;
+}
+
+.aviso-legal-content ol {
+    padding-inline-start: 0px;
+}
+
+.aviso-legal-content ul {
+    list-style-type: disc;
+}
+
+.aviso-legal-content ul li {
+    margin-bottom: 1rem;
+    font-size: 1.125rem;
+}
+
+/*------------------ COOKIE POLICY PAGE ----------------------*/
+
+.cookies-policy-content h1 {
+    text-align: center;
+    margin-bottom: 2rem;
+}
+
+.cookies-policy-content p {
+    font-size: 1.125rem;
+}
+
+.cookies-policy-content-intro {
+    margin-bottom: 2rem;
+}
+
+.cookies-policy-content-line {
+    margin-bottom: 2rem;
+}
+
+.cookies-policy-content ol {
+    padding-inline-start: 0px;
+}
+
+.cookies-policy-content ul {
+    list-style-type: disc;
+}
+
+.cookies-policy-content ul li {
+    margin-bottom: 1rem;
+    font-size: 1.125rem;
+}
+
+
+/*-- Cookie-banner-section --*/
+
+#cookie-banner {
+    position: fixed;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    background: #000000;
+    border-top: 1px solid #000000;
+    padding: 1rem;
+    display: none;
+    z-index: 9999;
+}
+
+.cookie-banner-text {
+    margin: 0;
+    color: #ffffff;
+}
+
+.cookie-banner-options {
+    margin-top: 0.5rem;
+}
+
+.cookie-banner-options-button {
+    margin-right: 10px;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: #1459E3;
+    color: #ffffff;
+    border: 1px solid #1459E3;
+}
+
+#cookie-preferences {
+    display: none;
+    position: fixed;
+    top: 10%;
+    left: 50%;
+    transform: translateX(-50%);
+    background: #000000;
+    border: 1px solid #000000;
+    border-radius: 5px;
+    padding: 1.5rem;
+    z-index: 10000;
+    width: 90%;
+    max-width: 520px;
+}
+
+.cookie-preferences-title {
+    color: #ffffff;
+}
+
+#preferences-form label {
+    color: #ffffff;
+    margin-left: 0.5rem;
+}
+
+.preferences-save-button {
+    border: 1px solid #1459E3;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: #1459E3;
+    color: #ffffff;
+}
+
+.preferences-reset-button {
+    border: 1px solid #1459E3;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: #1459E3;
+    color: #ffffff;
+}
+
+.preferences-cancel-button {
+    border: 1px solid #1459E3;
+    border-radius: 5px;
+    padding: 5px 10px;
+    background-color: #1459E3;
+    color: #ffffff;
+}
+
+#cookie-overlay {
+    display: none;
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    height: 100%;
+    background: rgba(0, 0, 0, 0.5);
+    z-index: 9998;
+}
